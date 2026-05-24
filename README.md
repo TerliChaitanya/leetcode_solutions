@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
