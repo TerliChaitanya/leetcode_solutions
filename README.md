@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2325-decode-the-message) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
