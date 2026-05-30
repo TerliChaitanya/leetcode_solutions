@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0561-array-partition](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0561-array-partition) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Divide and Conquer
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0561-array-partition) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
