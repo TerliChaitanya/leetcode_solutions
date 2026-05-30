@@ -5,7 +5,7 @@ class Solution:
         l=len(cost)-1
         i=1
         while(l>=0):
-            if i%3==0:
+            if i==3:
                 i=1
             else:
                 answ+=cost[l]
