@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2485-find-the-pivot-integer](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
 ## Counting Sort
 |  |
 | ------- |
