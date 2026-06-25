@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0704-binary-search) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
