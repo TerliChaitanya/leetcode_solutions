@@ -18,14 +18,10 @@ class Solution:
                 tail.next=ListNode(curr2.val)
                 tail=tail.next
                 curr2=curr2.next
-        while curr1:
-            tail.next=ListNode(curr1.val)
-            tail=tail.next
-            curr1=curr1.next
-        while curr2:
-            tail.next=ListNode(curr2.val)
-            tail=tail.next
-            curr2=curr2.next
+        if curr1:
+            tail.next=curr1
+        if curr2:
+            tail.next=curr2
         return dummy.next
 
         
