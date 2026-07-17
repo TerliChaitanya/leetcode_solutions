@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -208,13 +209,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0739-daily-temperatures) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
