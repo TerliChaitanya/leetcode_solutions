@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
