@@ -10,8 +10,8 @@ class Solution:
         while temp:
             l.append(temp.val)
             temp=temp.next
-        for i in range(len(l)-1,-1,-1):
-            if l[i]!=head.val:
+        while head:
+            if l.pop(-1)!=head.val:
                 return False
             head=head.next
         return True
