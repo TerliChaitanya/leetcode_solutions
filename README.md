@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0242-valid-anagram) |
