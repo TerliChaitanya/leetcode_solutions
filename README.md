@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2485-find-the-pivot-integer) |
+| [2525-categorize-box-according-to-criteria](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2525-categorize-box-according-to-criteria) |
 ## String
 |  |
 | ------- |
