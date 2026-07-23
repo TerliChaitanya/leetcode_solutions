@@ -9,10 +9,8 @@ class Solution:
             heavy=True
         if bulky and heavy:
             return "Both"
-        if not bulky and not heavy:
-            return "Neither"
-        if bulky and not heavy:
+        if bulky:
             return "Bulky"
-        if heavy and not bulky:
+        if heavy:
             return "Heavy"
-        return "Hai"
+        return "Neither"
