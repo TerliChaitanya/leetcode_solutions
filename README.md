@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Brainteaser
 |  |
 | ------- |
