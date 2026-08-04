@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0292-nim-game](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -267,4 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
