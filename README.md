@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2043-simple-bank-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2043-simple-bank-system) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2043-simple-bank-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2043-simple-bank-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2043-simple-bank-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2043-simple-bank-system) |
 | [2325-decode-the-message](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2325-decode-the-message) |
 ## Dynamic Programming
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0707-design-linked-list) |
+| [2043-simple-bank-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2043-simple-bank-system) |
 ## Linked List
 |  |
 | ------- |
