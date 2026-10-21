@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1603-design-parking-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2043-simple-bank-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2043-simple-bank-system) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Database
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0707-design-linked-list) |
+| [1603-design-parking-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2241-design-an-atm-machine) |
 ## Linked List
