@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2241-design-an-atm-machine](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2241-design-an-atm-machine) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2241-design-an-atm-machine](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2241-design-an-atm-machine) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0707-design-linked-list) |
 | [2043-simple-bank-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2043-simple-bank-system) |
+| [2241-design-an-atm-machine](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2241-design-an-atm-machine) |
 ## Linked List
 |  |
 | ------- |
