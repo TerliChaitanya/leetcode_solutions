@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0771-jewels-and-stones) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1603-design-parking-system) |
