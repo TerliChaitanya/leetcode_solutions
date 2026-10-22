@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TerliChaitanya/leetcode_solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
